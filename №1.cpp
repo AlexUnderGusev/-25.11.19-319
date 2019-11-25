@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-setlocale(LC_ALL, "Russian");
 // Ðàñïèøåì âñå äåéñòâèÿ:
 /*
 	2020x + 2021y =78487894
