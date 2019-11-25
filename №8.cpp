@@ -20,19 +20,9 @@ int PrimeReal(int n) {
 			p*=g;
 	return p;
 }
-
-
-
-int main() 
-
-{
-
+int main() {
 	int n;
-
 	cin >> n;
-
 	cout << PrimeReal(n);
-
 	return 0;
-
 }
